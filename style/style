@@ -1,0 +1,27 @@
+#style
+ <style>
+        h1{
+            color:blue;
+        }
+        .ciudades{
+            color: rgb(255, 51, 0);
+        }
+         h2{
+             color: purple;
+         }
+         body{
+             background-color: pink;
+         }
+         .comida{
+             color:orange;
+         }
+         .animales{
+             color:green;
+         }
+         .actividades{
+             color: red;
+         }
+        h3{
+            color: rgb(9, 148, 240);
+        }
+    </style>
